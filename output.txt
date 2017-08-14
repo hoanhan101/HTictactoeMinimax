@@ -1,0 +1,482 @@
+Last login: Mon Dec  5 15:21:27 on ttys001
+Hoanhs-MacBook-Pro:101 hoanhan$ g++ *.cpp -o Test
+Hoanhs-MacBook-Pro:101 hoanhan$ ./Test
+
+WELCOME TO TIC TAC TOE
+
+HERE IS THE BOARD WITH POSITION NUMBER
+
+-------------
+| 1 | 2 | 3 |
+-------------
+| 4 | 5 | 6 |
+-------------
+| 7 | 8 | 9 |
+-------------
+
+PLAYER USE 'X', AI USE 'O'
+CHOOSE WISELY AND GOOD LUCK!
+
+Do you want to go first? (Y/N)? 
+y
+
+Enter the position (1 ~ 9): 1
+Your move:
+-------------
+| X |   |   |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+AI's move:
+-------------
+| X |   |   |
+-------------
+|   | O |   |
+-------------
+|   |   |   |
+-------------
+
+Enter the position (1 ~ 9): 2
+Your move:
+-------------
+| X | X |   |
+-------------
+|   | O |   |
+-------------
+|   |   |   |
+-------------
+AI's move:
+-------------
+| X | X | O |
+-------------
+|   | O |   |
+-------------
+|   |   |   |
+-------------
+
+Enter the position (1 ~ 9): 3
+Invalid position.
+
+Enter the position (1 ~ 9): 4
+Your move:
+-------------
+| X | X | O |
+-------------
+| X | O |   |
+-------------
+|   |   |   |
+-------------
+AI's move:
+-------------
+| X | X | O |
+-------------
+| X | O |   |
+-------------
+| O |   |   |
+-------------
+
+Sorry! AI Win!
+
+Do you want to play again? (Y/N)
+y
+
+WELCOME TO TIC TAC TOE
+
+HERE IS THE BOARD WITH POSITION NUMBER
+
+-------------
+| 1 | 2 | 3 |
+-------------
+| 4 | 5 | 6 |
+-------------
+| 7 | 8 | 9 |
+-------------
+
+PLAYER USE 'X', AI USE 'O'
+CHOOSE WISELY AND GOOD LUCK!
+
+Do you want to go first? (Y/N)? 
+y
+
+Enter the position (1 ~ 9): 1
+Your move:
+-------------
+| X |   |   |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+AI's move:
+-------------
+| X |   |   |
+-------------
+|   | O |   |
+-------------
+|   |   |   |
+-------------
+
+Enter the position (1 ~ 9): 3
+Your move:
+-------------
+| X |   | X |
+-------------
+|   | O |   |
+-------------
+|   |   |   |
+-------------
+AI's move:
+-------------
+| X | O | X |
+-------------
+|   | O |   |
+-------------
+|   |   |   |
+-------------
+
+Enter the position (1 ~ 9): 8
+Your move:
+-------------
+| X | O | X |
+-------------
+|   | O |   |
+-------------
+|   | X |   |
+-------------
+AI's move:
+-------------
+| X | O | X |
+-------------
+|   | O |   |
+-------------
+|   | X | O |
+-------------
+
+Enter the position (1 ~ 9): 6
+Your move:
+-------------
+| X | O | X |
+-------------
+|   | O | X |
+-------------
+|   | X | O |
+-------------
+AI's move:
+-------------
+| X | O | X |
+-------------
+|   | O | X |
+-------------
+| O | X | O |
+-------------
+
+Enter the position (1 ~ 9): 4
+Your move:
+-------------
+| X | O | X |
+-------------
+| X | O | X |
+-------------
+| O | X | O |
+-------------
+
+Draw!
+
+Do you want to play again? (Y/N)
+y   
+
+WELCOME TO TIC TAC TOE
+
+HERE IS THE BOARD WITH POSITION NUMBER
+
+-------------
+| 1 | 2 | 3 |
+-------------
+| 4 | 5 | 6 |
+-------------
+| 7 | 8 | 9 |
+-------------
+
+PLAYER USE 'X', AI USE 'O'
+CHOOSE WISELY AND GOOD LUCK!
+
+Do you want to go first? (Y/N)? 
+y
+
+Enter the position (1 ~ 9): 5
+Your move:
+-------------
+|   |   |   |
+-------------
+|   | X |   |
+-------------
+|   |   |   |
+-------------
+AI's move:
+-------------
+|   |   |   |
+-------------
+|   | X |   |
+-------------
+|   |   | O |
+-------------
+
+Enter the position (1 ~ 9): 7
+Your move:
+-------------
+|   |   |   |
+-------------
+|   | X |   |
+-------------
+| X |   | O |
+-------------
+AI's move:
+-------------
+|   |   | O |
+-------------
+|   | X |   |
+-------------
+| X |   | O |
+-------------
+
+Enter the position (1 ~ 9): 6
+Your move:
+-------------
+|   |   | O |
+-------------
+|   | X | X |
+-------------
+| X |   | O |
+-------------
+AI's move:
+-------------
+|   |   | O |
+-------------
+| O | X | X |
+-------------
+| X |   | O |
+-------------
+
+Enter the position (1 ~ 9): 8
+Your move:
+-------------
+|   |   | O |
+-------------
+| O | X | X |
+-------------
+| X | X | O |
+-------------
+AI's move:
+-------------
+|   | O | O |
+-------------
+| O | X | X |
+-------------
+| X | X | O |
+-------------
+
+Enter the position (1 ~ 9): 1
+Your move:
+-------------
+| X | O | O |
+-------------
+| O | X | X |
+-------------
+| X | X | O |
+-------------
+
+Draw!
+
+Do you want to play again? (Y/N)
+y
+
+WELCOME TO TIC TAC TOE
+
+HERE IS THE BOARD WITH POSITION NUMBER
+
+-------------
+| 1 | 2 | 3 |
+-------------
+| 4 | 5 | 6 |
+-------------
+| 7 | 8 | 9 |
+-------------
+
+PLAYER USE 'X', AI USE 'O'
+CHOOSE WISELY AND GOOD LUCK!
+
+Do you want to go first? (Y/N)? 
+n
+AI's move:
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+|   |   | O |
+-------------
+
+Enter the position (1 ~ 9): 1
+Your move:
+-------------
+| X |   |   |
+-------------
+|   |   |   |
+-------------
+|   |   | O |
+-------------
+AI's move:
+-------------
+| X |   |   |
+-------------
+|   |   |   |
+-------------
+| O |   | O |
+-------------
+
+Enter the position (1 ~ 9): 8
+Your move:
+-------------
+| X |   |   |
+-------------
+|   |   |   |
+-------------
+| O | X | O |
+-------------
+AI's move:
+-------------
+| X |   | O |
+-------------
+|   |   |   |
+-------------
+| O | X | O |
+-------------
+
+Enter the position (1 ~ 9): 6
+Your move:
+-------------
+| X |   | O |
+-------------
+|   |   | X |
+-------------
+| O | X | O |
+-------------
+AI's move:
+-------------
+| X |   | O |
+-------------
+|   | O | X |
+-------------
+| O | X | O |
+-------------
+
+Sorry! AI Win!
+
+Do you want to play again? (Y/N)
+y
+
+WELCOME TO TIC TAC TOE
+
+HERE IS THE BOARD WITH POSITION NUMBER
+
+-------------
+| 1 | 2 | 3 |
+-------------
+| 4 | 5 | 6 |
+-------------
+| 7 | 8 | 9 |
+-------------
+
+PLAYER USE 'X', AI USE 'O'
+CHOOSE WISELY AND GOOD LUCK!
+
+Do you want to go first? (Y/N)? 
+n
+AI's move:
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+|   |   | O |
+-------------
+
+Enter the position (1 ~ 9): 5
+Your move:
+-------------
+|   |   |   |
+-------------
+|   | X |   |
+-------------
+|   |   | O |
+-------------
+AI's move:
+-------------
+|   |   |   |
+-------------
+|   | X |   |
+-------------
+|   | O | O |
+-------------
+
+Enter the position (1 ~ 9): 7
+Your move:
+-------------
+|   |   |   |
+-------------
+|   | X |   |
+-------------
+| X | O | O |
+-------------
+AI's move:
+-------------
+|   |   | O |
+-------------
+|   | X |   |
+-------------
+| X | O | O |
+-------------
+
+Enter the position (1 ~ 9): 6
+Your move:
+-------------
+|   |   | O |
+-------------
+|   | X | X |
+-------------
+| X | O | O |
+-------------
+AI's move:
+-------------
+|   |   | O |
+-------------
+| O | X | X |
+-------------
+| X | O | O |
+-------------
+
+Enter the position (1 ~ 9): 2
+Your move:
+-------------
+|   | X | O |
+-------------
+| O | X | X |
+-------------
+| X | O | O |
+-------------
+AI's move:
+-------------
+| O | X | O |
+-------------
+| O | X | X |
+-------------
+| X | O | O |
+-------------
+
+Draw!
+
+Do you want to play again? (Y/N)
+n
+Hoanhs-MacBook-Pro:101 hoanhan$ 
