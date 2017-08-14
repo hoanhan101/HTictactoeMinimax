@@ -40,7 +40,6 @@
   so I could debug along the way.
 
   BUT FINALLY I MADE IT! FIRST AI PROGRAM EVER!!!
-  I am really excited about AI right now so I will definitely go to your AI class next term!
 
 
 + ----------- +
